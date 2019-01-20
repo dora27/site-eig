@@ -13,15 +13,14 @@ Entrepreneur·e d'intérêt général sur le défi de la gendarmerie
 nationale, « Brigade numérique ». Actuellement la prise de rendez-vous
 avec un gendarme peut s'effectuer uniquement durant les horaires
 d'ouverture de la brigade soit en s'y présentant directement, soit par
-téléphone. Notre défi est de mettre en place un service en ligne
+téléphone. Le défi est de mettre en place un service en ligne
 ouvert 24/7 de prise de rendez-vous dans l'unité choisie par les
 usagers. Pour les unités surchargées, cela fluidifiera l'accueil des
 usagers, pour les unités peu sollicitées, elles pourront optimiser la
-mobilisation des gendarmes à l'accueil. Nous avions dix mois pour
-faire évoluer cette fonction contact.
+mobilisation des gendarmes à l'accueil. 
 
-J'ai rejoint le défi avec mon collègue Jean-Baptiste Le Dévéhat en
-janvier 2018.  Lui est designer de services et moi ingénieure informatique.
+Je travail sur ce projet en équipe avec Jean-Baptiste Le Dévéhat, nous avions dix mois pour
+faire évoluer la fonction contact de la gendarmerie. Lui est designer de services et moi ingénieure informatique.
 Ce qui nous motive au quotidien, c'est l'envie de façonner la
 transformation numérique des services mis à disposition des citoyens
 en utilisant tous les moyens techniques aujourd'hui disponibles.
